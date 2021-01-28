@@ -17,7 +17,7 @@
     "next-seo": "^4.17.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "stoop": "https://github.com/lowerandeast/stoop.git",
+    "stoop": "git+https://github.com/lowerandeast/stoop.git",
     "vercel": "^21.2.1"
   },
   "devDependencies": {
