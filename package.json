@@ -12,12 +12,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "browserslist": "",
     "next": "^10.0.5",
     "next-seo": "^4.17.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "stoop": "git+https://github.com/lowerandeast/stoop.git",
+    "stoop": "^1.0.1",
     "vercel": "^21.2.1"
   },
   "devDependencies": {
