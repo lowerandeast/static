@@ -1,6 +1,6 @@
 {
-  "name": "stoop",
-  "description": "Our boiler and light framework for static sites, using Next.js.",
+  "name": "static",
+  "description": "Our boiler and file structure for small projects & static sites.",
   "author": "Lower & East",
   "private": false,
   "license": "MIT",
@@ -16,7 +16,7 @@
     "next-seo": "^4.17.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "stoop": "^1.0.1",
+    "stoop": "^1.0.2",
     "vercel": "^21.2.1"
   },
   "devDependencies": {

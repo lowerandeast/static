@@ -6,7 +6,7 @@ export default function Custom404() {
     <div>
       <NextSeo title="- Nothing here" />
 
-      <div className="outer confined">
+      <div className="outer inner">
         <div className="row">
           <div className="column type-c">
             <h6>Page not found.</h6>

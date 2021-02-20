@@ -3949,10 +3949,10 @@ static-extend@^0.1.1:
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
 
-stoop@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/stoop/-/stoop-1.0.1.tgz#2104f2aa0e9f7b5ad1c0a1c513cb393cf93a6173"
-  integrity sha512-IG3LzU39U9SvXOatx5M5T8PtdjY2cW2Gie0abNNg3/+1U1tPLndR2mhPn5V1CDrp9Flk2YjYi1cpnIv2f+nkVg==
+stoop@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/stoop/-/stoop-1.0.2.tgz#8a77cfb6ea3ca2d12690d9603237bd262a988786"
+  integrity sha512-N/PWn/NizEl7yUDvdsln2OccN3cfqrwKZRm1gc/Ho6YWPMf/GretVO9PsiKgBeawjafupwlljKqAQI99RU6EsQ==
   dependencies:
     sass "^1.32.5"
 

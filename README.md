@@ -1,6 +1,7 @@
 
 # static
 Our boiler and file structure for small projects & static sites.
+
 &nbsp;
 
 ### Initiate

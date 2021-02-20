@@ -6,7 +6,7 @@ function Home() {
       <NextSeo title=" " description=" " />
 
       <div className="outer">
-        <div class="inner">
+        <div className="inner">
           <div className="row p-t-3 p-t-1-tablet type-c">
             <div className="column">
               <img
@@ -26,7 +26,7 @@ function Home() {
                 tailored for Lower & East internally, but like - use it if you
                 want.
               </h6>
-              <h6 class="p-t-1">
+              <h6 className="p-t-1">
                 <a href="https://www.npmjs.com/package/stoop">
                   npmjs.com/package/stoop
                 </a>

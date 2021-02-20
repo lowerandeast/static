@@ -4,7 +4,7 @@ import RouteActive from "../../utils/RouteActive";
 const Header = () => (
   <div>
     <div className="outer p-t-1-h">
-      <div className="row align-center">
+      <div className="row align-c">
         <div className="column s-40 s-40-phone">
           <h5>Stoop</h5>
         </div>
